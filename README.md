@@ -1,0 +1,2 @@
+# ShufflenetV2_PLUS
+the modify for shufflenets: shufflenet_v2_csp;shufflenet_v2_k5;shufflenet_v2_liteconv;shufflenet_v2_se_attention;shufflenet_v2_sk_attention
